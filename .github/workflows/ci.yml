@@ -23,6 +23,3 @@ jobs:
 
       - name: Run tests
         run: npm run test
-
-      - name: Broke code
-        run: exit 1
